@@ -1,9 +1,5 @@
 # my-projects
 
-# Slider-1
+# Slider-2
 
-https://GlebasusBP.github.io/my-projects/slider-1/
-
-# Drag N Drop
-
-https://GlebasusBP.github.io/my-projects/DragNDrop/
+https://GlebasusBP.github.io/my-projects/slider-2/
