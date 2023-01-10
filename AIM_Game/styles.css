@@ -117,3 +117,15 @@ h1 {
   border: 2px solid #16d9e3;
   color: #16d9e3;
 }
+
+
+@media (max-width: 520px) {
+  .screen{
+    box-sizing:border-box;
+    padding: 0 10px;
+  }
+  .board{
+    width: 95vw;
+    height: 80vh;
+  }
+}
